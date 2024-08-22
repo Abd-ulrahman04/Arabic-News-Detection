@@ -1,0 +1,3 @@
+streamlit run App.py
+
+in anaconda command
